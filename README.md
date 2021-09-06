@@ -6,10 +6,11 @@
 팬들과 만날 수 있는 소통의 창구가 무명 공연인들에게도 있다면 어떨까요?
 
 
+
+
 ## Team members
 |            | 강용수                      | 권영린                      | 금아현                      | 김민권                        | 유희진                      | 이민아                      |
 | ---------- | --------------------------- | --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
-| **Github** | ![ys](./ys.png) | ![yl](./yl.png) | ![ah](./ah.png) | ![mg](./mg.png)   | ![hj](./hj.png) | ![nr](./nr.png) |
 | **E-mail** | emoney96@naver.com          | sqk86577@gmail.com          | ahyendkgus@gmail.com        | kmk130519@gmail.com           | jiin20803@gmail.com         | lma960723@gmail.com         |
 | **Github** | https://github.com/emost22  | https://github.com/kwonyl14 | https://github.com/ahyen    | https://github.com/kimminkwon | https://github.com/Huijiny  | https://github.com/ma0723   |
 | **Blog**   |         https://emoney96.tistory.com/                    |         https://velog.io/@sqk8657                    |                             |                               |                             |                             |
