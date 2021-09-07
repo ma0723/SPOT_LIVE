@@ -1,6 +1,19 @@
 # SPOTLIVE
 
+
+
+## Information 
+
+
+
+홈페이지 안내 메뉴얼 : [Homepage Manual](https://github.com/ma0723/SPOT_LIVE/blob/master/Hompage_Manual.md)
+
+배표 사이트 : https://spotlive.co.kr/
+
+
+
 ## Introduce
+
 코로나 19로 인해 공연 예술 업계는 피해가 큽니다. 그 중 대학로, 또는 홍대에서 소공연을 진행하던 예술인들은 관객과 따로 만날 수 있는 플랫폼이 없어 만날 수 없는 상황입니다.
 라이브 공연과 홍보, 또 티켓 구매 등이 언택트로 이루어질 수 있는 플랫폼이 있다면 어떨까요?
 팬들과 만날 수 있는 소통의 창구가 무명 공연인들에게도 있다면 어떨까요?
