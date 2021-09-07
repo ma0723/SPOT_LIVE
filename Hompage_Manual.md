@@ -44,7 +44,7 @@
 
 #### (1) 메인 헤더
 
-![Untitled](Hompage_Manual.assets/Untitled 1-16309763010921.png)
+![Untitled](Hompage_Manual.assets/Untitled_1-16309763010921.png)
 
 **① 스트리밍 버튼** : 스트리밍을 시작할 수 있습니다.
 
@@ -56,11 +56,11 @@
 
 - 검색
 
-![Untitled](Hompage_Manual.assets/Untitled 2.png)
+![Untitled](Hompage_Manual.assets/Untitled_2.png)
 
 입력한 키워드가 포함된 **유저 이름, 영상 제목, 영상 설명**으로 영상 **검색**을 할 수 있습니다. 
 
-![Untitled](Hompage_Manual.assets/Untitled 3.png)
+![Untitled](Hompage_Manual.assets/Untitled_3.png)
 
 영상은 **Grid 형태**로 구현하며 화면 사이즈에 따라서 **자동으로 한 줄당 나타나는 영상의 개수가 변화**합니다. 더불어 **인피니트 로딩**을 통해 검색 결과가 많은 경우 지속적으로 스크롤을 내리면 더 많은 영상들을 관람할 수 있습니다. 
 
@@ -76,7 +76,7 @@
 
 #### (3) 상단 3D 캐루젤
 
-![Untitled](Hompage_Manual.assets/Untitled 4.png)
+![Untitled](Hompage_Manual.assets/Untitled_4.png)
 
 아래에 보여지는 6가지 종류의 영상 (홍보, 공연, 소통, 다시보기, 라이브, 내가 팔로우한 공연자의 영상) 중에서 **현재 라이브인 영상 중 시청자가 가장 많은** 영상, 라이브인 영상이 없다면 다시보기 영상 중 **조회수가 가장 높은 영상**을 **카테고리별로 하나씩** 선정하여 화면에 보여집니다.
 
@@ -84,7 +84,7 @@
 
 #### (4) 중간 필터 버튼
 
-![Untitled](Hompage_Manual.assets/Untitled 5.png)
+![Untitled](Hompage_Manual.assets/Untitled_5.png)
 
 중간에 위치한 **카테고리 필터 버튼**으로 여러 장르의 공연을 관람할 수 있습니다.  **전체 버튼**을 클릭하면 카테고리를 불문하고 전체적인 하단 영상을 조회할 수 있습니다.
 
@@ -94,9 +94,9 @@
 
 - 각 항목 안내
 
-![Untitled](Hompage_Manual.assets/Untitled 8.png)
+![Untitled](Hompage_Manual.assets/Untitled_8.png)
 
-![Untitled](Hompage_Manual.assets/Untitled 9.png)
+![Untitled](Hompage_Manual.assets/Untitled_9.png)
 
 **① 내가 예약한 공연** : 자신이 예약한 **공연이 라이브중**이면 바로 확인할 수 있습니다. 
 
@@ -114,9 +114,9 @@
 
 - 하단 글라이드 사용법
 
-![Untitled](Hompage_Manual.assets/Untitled 10.png)
+![Untitled](Hompage_Manual.assets/Untitled_10.png)
 
-![Untitled](Hompage_Manual.assets/Untitled 11.png)
+![Untitled](Hompage_Manual.assets/Untitled_11.png)
 
 영상목록을 **오른쪽 혹은 왼쪽**으로 **스와이핑**하며 옆으로 넘길 수 있습니다. 이외에도 **양옆에 존재하는 버튼을** 사용하여 슬라이드를 넘길 수 있도록 구현하여 사용자의 편의성을 높였습니다.
 
@@ -124,11 +124,11 @@
 
 - 라이브중인 공연용 영상의 경우
 
-![Untitled](Hompage_Manual.assets/Untitled 6.png)
+![Untitled_6](Hompage_Manual.assets/Untitled_6.png)
 
 자신이 예약하지 않은 **라이브 중인 공연용 영상**을 클릭 시 **공연 상세정보 모달이** 뜨게되고, **예약하기**를 누르면 바로 예약할 수 있습니다. 다시보기할 수 있는 공연용 영상과 그 외의 홍보용, 소통용 영상은 모두 **자유롭게** 비디오를 다시 볼 수 있습니다. **실시간 라이브 중인 공연용 영상만** **예매**를 해야 입장할 수 있습니다.
 
-![Untitled](Hompage_Manual.assets/Untitled 7.png)
+![Untitled_7](Hompage_Manual.assets/Untitled_7.png)
 
 예약을 하면 **즉시** 하단 글라이드에 반영이 되며, **본인이 예약한 공연이 라이브 중일 때 바로 확인**할 수 있습니다. 가장 첫 줄에 이와 같은 영상이 나타나도록 하여 사용자의 편의성을 높였습니다. 
 
@@ -146,9 +146,9 @@
 
 공연 생성 모달에 공연 정보를 등록할 때, **유효성 검사를** 통해 1개의 정보라도 등록되지 않으면 **등록버튼이 활성화되지 않습니다.**
 
-![Untitled](Hompage_Manual.assets/Untitled 12.png)
+![Untitled](Hompage_Manual.assets/Untitled_12.png)
 
-![Untitled](Hompage_Manual.assets/Untitled%2013.png)
+![Untitled](Hompage_Manual.assets/Untitled_13.png)
 
 공연 시간은 **Datepicker**를 통해 구현한 달력을 이용해 **날짜와 시간**을 선택할 수 있습니다.
 
@@ -160,7 +160,7 @@
 
 또한, **같은 시간을 등록**하면 **이미 등록했다는 토스트 알림**이 뜨며 등록이 되지 않습니다.
 
-![Untitled](Hompage_Manual.assets/Untitled 14.png)
+![Untitled](Hompage_Manual.assets/Untitled_14.png)
 
 공연 시간 **목록**을 누르면 등록한 **공연 시간들**을 확인하고, **삭제**할 수 있습니다.
 
@@ -168,7 +168,7 @@
 
 모든 정보를 빠짐없이 입력했으므로, **등록 버튼이 활성화**되어있습니다.
 
-![Untitled](Hompage_Manual.assets/Untitled 15.png)
+![Untitled](Hompage_Manual.assets/Untitled_15.png)
 
 등록 버튼을 누르면, 공연이 **등록**되었다는 **알림을 확인**할 수 있습니다.
 
@@ -178,23 +178,23 @@
 
 #### (2) 공연 정보 상세 조회
 
-![Untitled](Hompage_Manual.assets/Untitled 16.png)
+![Untitled](Hompage_Manual.assets/Untitled_16.png)
 
 프로필의 중앙 캐루젤에서 공연 **포스터를 클릭**하면, 등록한 공연의 **상세 정보 모달을 확인**할 수 있습니다. 상세 정보 모달의 하단에 있는 **삭제와 수정 버튼을 통해 자신의 공연 정보를 관리**할 수 있습니다.
 
 #### (3) 공연 정보 수정
 
-![Untitled](Hompage_Manual.assets/Untitled 17.png)
+![Untitled](Hompage_Manual.assets/Untitled_17.png)
 
 공연 정보를 수정하는 모달입니다. 공연 정보를 등록할 때 입력한 정보들을 **수정**할 수 있습니다.
 
-![Untitled](Hompage_Manual.assets/Untitled 18.png)
+![Untitled](Hompage_Manual.assets/Untitled_18.png)
 
 수정 정보를 **저장한 후**에는 변경된 수정 모달이 닫힌 후 **바로 변경된 사항**을 **공연 정보 상세 모달**에서 확인할 수 있습니다.
 
 #### (4) 공연 정보 삭제
 
-![Untitled](Hompage_Manual.assets/Untitled 19.png)
+![Untitled](Hompage_Manual.assets/Untitled_19.png)
 
 공연 상세 정보 모달에서 **삭제 버튼을 누르면**, 예약을 삭제할지 한번 더 묻고, **확인 버튼을 누르면** 해당 공연 정보를 **삭제**할 수 있습니다. **취소 버튼을 클릭하면** 다시 현재의 **공연 정보 상세 모달**로 돌아갑니다.
 
@@ -204,11 +204,11 @@
 
 내 프로필의 우측 상단에 **프로필 수정 버튼**을 누르면 프로필을 수정할 수 있습니다.
 
-![Untitled](Hompage_Manual.assets/Untitled 20.png)
+![Untitled](Hompage_Manual.assets/Untitled_20.png)
 
 수정 모달을 통해, **닉네임과 소개**를 수정할 수 있습니다. **빈 칸일 경우 저장할 수 없도록 유효성 검사**를 실시하고 있으며 유효성 검사를 통과한 경우 **저장 버튼**을 클릭하면 **프로필에 실시간으로 반영**됩니다.
 
-![Untitled](Hompage_Manual.assets/Untitled 21.png)
+![Untitled](Hompage_Manual.assets/Untitled_21.png)
 
 수정할 정보를 입력 후, **저장 버튼**을 누르면 **수정이 완료**됩니다.
 
@@ -222,7 +222,7 @@
 
 프로필 하단에서 **나의 동영상**을 확인할 수 있습니다.
 
-![Untitled](Hompage_Manual.assets/Untitled 22.png)
+![Untitled](Hompage_Manual.assets/Untitled_22.png)
 
 동영상의 우측 상단에 있는 **X버튼**을 클릭하면, **영상을 삭제**할 수 있습니다.
 
@@ -232,11 +232,11 @@
 
 #### (1) 영상 정보 설정
 
-![Untitled](Hompage_Manual.assets/Untitled 23.png)
+![Untitled](Hompage_Manual.assets/Untitled_23.png)
 
 시스템에 연결된 **카메라**와 **마이크** 출력부분을 선택할 수 있습니다.
 
-![Untitled](Hompage_Manual.assets/Untitled 24.png)
+![Untitled](Hompage_Manual.assets/Untitled_24.png)
 
 영상 송출에 필요한 정보를 입력하기 위한 모달입니다.
 
@@ -247,7 +247,7 @@
 
 #### (2) 스트리밍 시작
 
-![Untitled](Hompage_Manual.assets/Untitled 25.png)
+![Untitled](Hompage_Manual.assets/Untitled_25.png)
 
 영상을 실시간으로 스트리밍하며 시청자와 소통할 수 있는 스트리밍 페이지입니다.
 
@@ -258,13 +258,13 @@
 
 #### (3) 영상 정보 수정
 
-![Untitled](Hompage_Manual.assets/Untitled 26.png)
+![Untitled](Hompage_Manual.assets/Untitled_26.png)
 
 영상정보 **수정**을 할 수있는 폼입니다. 수정 후 **확인 버튼**을 클릭하면 실시간으로 수정된 영상 정보가 **화면에 반영**됩니다.
 
 #### (4) 스트리밍 종료
 
-![Untitled](Hompage_Manual.assets/Untitled 27.png)
+![Untitled](Hompage_Manual.assets/Untitled_27.png)
 
 스트리밍을 마칠 때 **종료버튼**을 통해 **저장여부 체크**와 함께 종료 여부를 **선택**할 수 있습니다.
 
@@ -282,7 +282,7 @@
 
 - 로그인 페이지
 
-![Untitled](Hompage_Manual.assets/Untitled 28.png)
+![Untitled](Hompage_Manual.assets/Untitled_28.png)
 
 **카카오 로그인** 버튼을 클릭하여 로그인을 할 수 있습니다.
 
@@ -292,7 +292,7 @@
 
 #### (1) 메인 헤더
 
-![Untitled](Hompage_Manual.assets/Untitled 1-16309765581322.png)
+![Untitled](Hompage_Manual.assets/Untitled_1-16309765581322.png)
 
 **① 스트리밍 버튼** : 스트리밍을 시작할 수 있습니다.
 
@@ -314,17 +314,17 @@
 
 #### (3) 검색
 
-![Untitled](Hompage_Manual.assets/Untitled 2-16309765659123.png)
+![Untitled](Hompage_Manual.assets/Untitled_2-16309765659123.png)
 
 입력한 키워드가 포함된 **유저 이름, 영상 제목, 영상 설명**으로 영상 **검색**을 할 수 있습니다. 
 
-![Untitled](Hompage_Manual.assets/Untitled 3-16309765701244.png)
+![Untitled](Hompage_Manual.assets/Untitled_3-16309765701244.png)
 
 영상은 **Grid 형태**로 구현하며 화면 사이즈에 따라서 **자동으로 한 줄당 나타나는 영상의 개수가 변화**합니다. 더불어 **인피니트 로딩**을 통해 검색 결과가 많은 경우 지속적으로 스크롤을 내리면 더 많은 영상들을 관람할 수 있습니다. 
 
 #### (4) 상단 3D 캐루젤
 
-![Untitled](Hompage_Manual.assets/Untitled%204.png)
+![Untitled](Hompage_Manual.assets/Untitled_4.png)
 
 아래에 보여지는 6가지 종류의 영상 (홍보, 공연, 소통, 다시보기, 라이브, 내가 팔로우한 공연자의 영상) 중에서 **현재 라이브인 영상 중 시청자가 가장 많은** 영상, 라이브인 영상이 없다면 다시보기 영상 중 **조회수가 가장 높은 영상**을 **카테고리별로 하나씩** 선정하여 화면에 보여집니다.
 
@@ -332,7 +332,7 @@
 
 #### (5) 중간 필터 버튼
 
-![Untitled](Hompage_Manual.assets/Untitled 5-16309765876936.png)
+![Untitled](Hompage_Manual.assets/Untitled_5-16309765876936.png)
 
 중간에 위치한 **카테고리 필터 버튼**으로 여러 장르의 공연을 관람할 수 있습니다.  **전체 버튼**을 클릭하면 카테고리를 불문하고 전체적인 하단 영상을 조회할 수 있습니다.
 
@@ -342,9 +342,9 @@
 
 - 각 항목 안내
 
-![Untitled](Hompage_Manual.assets/Untitled 8-16309766019319.png)
+![Untitled](Hompage_Manual.assets/Untitled_8-16309766019319.png)
 
-![Untitled](Hompage_Manual.assets/Untitled 9-163097660650110.png)
+![Untitled](Hompage_Manual.assets/Untitled_9-163097660650110.png)
 
 **① 내가 예약한 공연** : 자신이 예약한 **공연이 라이브중**이면 바로 확인할 수 있습니다. 
 
@@ -362,9 +362,9 @@
 
 - 하단 글라이드 사용법
 
-![Untitled](Hompage_Manual.assets/Untitled 10-163097661072911.png)
+![Untitled](Hompage_Manual.assets/Untitled_10-163097661072911.png)
 
-![Untitled](Hompage_Manual.assets/Untitled%2011.png)
+![Untitled](Hompage_Manual.assets/Untitled_11.png)
 
 영상목록을 **오른쪽 혹은 왼쪽**으로 **스와이핑**하며 옆으로 넘길 수 있습니다. 이외에도 **양옆에 존재하는 버튼을** 사용하여 슬라이드를 넘길 수 있도록 구현하여 사용자의 편의성을 높였습니다.
 
@@ -372,11 +372,11 @@
 
 - 라이브중인 공연용 영상의 경우
 
-![Untitled](Hompage_Manual.assets/Untitled 6-16309765934817.png)
+![Untitled](Hompage_Manual.assets/Untitled_6-16309765934817.png)
 
 자신이 예약하지 않은 **라이브 중인 공연용 영상**을 클릭 시 **공연 상세정보 모달이** 뜨게되고, **예약하기**를 누르면 바로 예약할 수 있습니다. 다시보기할 수 있는 공연용 영상과 그 외의 홍보용, 소통용 영상은 모두 **자유롭게** 비디오를 다시 볼 수 있습니다. **실시간 라이브 중인 공연용 영상만** **예매**를 해야 입장할 수 있습니다.
 
-![Untitled](Hompage_Manual.assets/Untitled 7-16309765970838.png)
+![Untitled](Hompage_Manual.assets/Untitled_7-16309765970838.png)
 
 예약을 하면 **즉시** 하단 글라이드에 반영이 되며, **본인이 예약한 공연이 라이브 중일 때 바로 확인**할 수 있습니다. 가장 첫 줄에 이와 같은 영상이 나타나도록 하여 사용자의 편의성을 높였습니다. 
 
@@ -386,27 +386,27 @@
 
 #### (1) 예약
 
-![Untitled](Hompage_Manual.assets/Untitled 29.png)
+![Untitled](Hompage_Manual.assets/Untitled_29.png)
 
 다른 사람의 **프로필**에 있는 **중앙 캐루젤의 포스터**들을 클릭하여 공연 **상세 정보를을 확인**하고, 원하는 시간을 **예약**할 수 있습니다.
 
-![Untitled](Hompage_Manual.assets/Untitled 30.png)
+![Untitled](Hompage_Manual.assets/Untitled_30.png)
 
 예약이 완료되면, **토스트 메시지**를 통해 **예약 완료를 확인**할 수 있습니다.
 
-![Untitled](Hompage_Manual.assets/Untitled 31.png)
+![Untitled](Hompage_Manual.assets/Untitled_31.png)
 
 **예약을 이미 한 경우** **다시** 예약하기 버튼을 클릭하면 **토스트 메시지**를 통해 **예약 완료를 확인**할 수 있습니다.
 
 #### (2) 예약 전체 내역 조회
 
-![Untitled](Hompage_Manual.assets/Untitled 32.png)
+![Untitled](Hompage_Manual.assets/Untitled_32.png)
 
 **내 프로필**로 이동하면, **예약한 공연의 티켓**들을 확인할 수 있습니다. 티켓의 하단에 있는 **예약 취소 버튼**을 누르면 해당 공연의 예약을 취소할 수 있고, **예약 상세 버튼**을 누르면 해당 **공연의 상세 정보**를 확인할 수 있습니다. 
 
 #### (3) 예약 상세 내역 조회
 
-![Untitled](Hompage_Manual.assets/Untitled 33.png)
+![Untitled](Hompage_Manual.assets/Untitled_33.png)
 
 **예약 상세 정보**를 확인할 수 있는 모달입니다. 예약한 공연의 포스터, 공연자, 공연 제목, 티켓가격, 공연 시간, 러닝타임, 공연 설명을 확인할 수 있습니다.
 
@@ -414,7 +414,7 @@
 
 #### (4) 예약 취소
 
-![Untitled](Hompage_Manual.assets/Untitled 34.png)
+![Untitled](Hompage_Manual.assets/Untitled_34.png)
 
 예약을 **취소**할 수 있는 모달입니다. 예약을 **삭제할지** 한 번 더 묻고, **확인 버튼을** 누르면 해당 예약을 **삭제**할 수 있습니다. **취소 버튼**을 클릭하면 예약 내역 모달로 돌아갑니다.
 
@@ -430,7 +430,7 @@
 
 #### (6) 프로필 수정 기능
 
-![Untitled](Hompage_Manual.assets/Untitled 35.png)
+![Untitled](Hompage_Manual.assets/Untitled_35.png)
 
 내 프로필의 우측 상단에 **프로필 수정 버튼**을 누르면 프로필을 수정할 수 있습니다.
 
@@ -442,7 +442,7 @@
 
 #### (1) 영상 시청 
 
-![Untitled](Hompage_Manual.assets/Untitled 36.png)
+![Untitled](Hompage_Manual.assets/Untitled_36.png)
 
 예약한 공연의 영상 시청페이지입니다.
 
@@ -455,7 +455,7 @@
 
 - 공연용 영상
 
-![Untitled](Hompage_Manual.assets/Untitled 37.png)
+![Untitled](Hompage_Manual.assets/Untitled_37.png)
 
 공연 시청중에 **공연 정보 확인 버튼**을 통해 해당 공연의 정보를 **티켓**을 통해 확인할 수 있습니다. 
 
@@ -463,18 +463,19 @@
 
 - 홍보용 영상
 
-![Untitled](Hompage_Manual.assets/Untitled 38.png)
+![Untitled](Hompage_Manual.assets/Untitled_38.png)
 
 우측 하단에 **예약하기 버튼**을 눌러서 공연 예약을 할 수 있습니다.
 
-![Untitled](Hompage_Manual.assets/Untitled 39.png)
+![Untitled](Hompage_Manual.assets/Untitled_39.png)
 
 공연 상세 정보에서 예약하기 버튼 클릭 시 **예약 완료 토스트**가 뜨게되며 예약이 완료됩니다. **타인의 프로필**에서 예약을 했을 때와 마찬가지로 **예약을 이미 한 경우** **예약이 이미 완료**되었다는 알림의 토스트가 나타납니다.
 
 #### (4) 영상 시청 종료
 
-![Untitled](Hompage_Manual.assets/Untitled 40.png)
+![Untitled](Hompage_Manual.assets/Untitled_40.png)
 
 우측 하단에 있는 **나가기 버튼**을 누르면 영상시청을 **종료**할 수 있습니다.
 
 ---
+
